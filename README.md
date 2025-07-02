@@ -1,5 +1,6 @@
 Ekran Görüntüleri : 
 
+![WhatsApp Görsel 2025-07-02 saat 19 09 58_fc1ae743](https://github.com/user-attachments/assets/a27d102e-5735-46cc-8767-920f56812677)
 ![IMG-20250702-WA0017](https://github.com/user-attachments/assets/e9114b4c-aac1-4d12-89c3-70bfdc227c67)
 ![IMG-20250702-WA0018](https://github.com/user-attachments/assets/e3cef217-43c1-415a-95ff-6bbdcd5d921f)
 ![IMG-20250702-WA0016](https://github.com/user-attachments/assets/a2165abd-528f-416a-911d-6bc189ce7d8f)

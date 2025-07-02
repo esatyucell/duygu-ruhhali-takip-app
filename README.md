@@ -1,3 +1,10 @@
+Ekran Görüntüleri : 
+
+![IMG-20250702-WA0017](https://github.com/user-attachments/assets/e9114b4c-aac1-4d12-89c3-70bfdc227c67)
+![IMG-20250702-WA0018](https://github.com/user-attachments/assets/e3cef217-43c1-415a-95ff-6bbdcd5d921f)
+![IMG-20250702-WA0016](https://github.com/user-attachments/assets/a2165abd-528f-416a-911d-6bc189ce7d8f)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

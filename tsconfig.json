@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    "lib": [
+      "ES2017"
+    ],
+    "allowJs": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "node16",
+    "module": "Node16",
+    "target": "esnext",
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "rootDir": ".",
+    "noEmitOnError": true
+  },
+  "include": [
+    "app/**/*",
+    "api/**/*",
+    "scripts/**/*",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "extends": "expo/tsconfig.base"
+}
